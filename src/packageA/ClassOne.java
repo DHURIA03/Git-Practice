@@ -15,5 +15,10 @@ public class ClassOne
 		System.out.println(object1.privateVar);
 		System.out.println(object1.protectedVar);
 	}
+	
+	public void newMethod() 
+	{
+		System.out.println("Created this method for check code updtae on git");
+	}
 
 }
